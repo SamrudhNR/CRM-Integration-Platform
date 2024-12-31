@@ -7,23 +7,23 @@ This project integrates HubSpot with Airtable and Notion, allowing users to auth
 
 Features
 
-OAuth 2.0 Authorization
+1.OAuth 2.0 Authorization
 
 Users can connect their HubSpot accounts via an authorization flow.
 
 Access tokens are securely fetched and used for accessing HubSpot resources.
 
-Integration Support
+2.Integration Support
 
 Fetch and manage credentials for HubSpot, Airtable, and Notion integrations.
 
-Dynamic UI
+3.Dynamic UI
 
 React-based frontend with Material-UI components for interactive user experience.
 
 Status indicators for integration connection (e.g., "Connected" or "Connect to HubSpot").
 
-Backend Services
+4.Backend Services
 
 FastAPI backend for handling API requests and managing integration logic.
 
@@ -33,14 +33,14 @@ Technologies Used
 
 Frontend
 
-React
+    React
 
-Material-UI
+    Material-UI
 
-Axios
+    Axios
 
 Backend
 
-FastAPI
+    FastAPI
 
-Python
+    Python
