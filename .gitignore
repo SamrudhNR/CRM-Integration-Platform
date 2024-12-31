@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python cache files
+backend/__pycache__/
+*.pyc
+
+# Node modules
+frontend/node_modules/
+
+# Build files
+/dist/
+/build/
+dump.rdb
+
+backend/.venv
+frontend/.DS_Store
+.DS_Store
